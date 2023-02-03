@@ -6,7 +6,7 @@
 ## Step 1:
 First you open google chrome (of course)
 ## Step 2:
-[Download This File (click here)](https://github.com/NovasGreat/salogenx/raw/main/index.html) and it should appear on your files (blue file button on chromebooks)
+[Click here](https://github.com/NovasGreat/salogenx/raw/main/index.html) and what should appear is some text. When you are on that page, double click and click "Save As" and it should download to your files (blue file button on chromebooks)
 ## Step 3:
 Open the file, seriously. Open your files app, and double click the file you just downloaded (the file you just downloaded is called "index.html" and open it.)
 ## Step 4:
