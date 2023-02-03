@@ -1,58 +1,29 @@
-# EaglercraftX
+# How do download EaglerCraftX on these stupid ass school computers 
+# Credits
 #### smashed together by [ayunami2000](https://github.com/ayunami2000)
 ##### and [EaglercraftX](https://gitlab.com/lax1dude/eaglercraftx-1.8) developed by [lax1dude](https://github.com/lax1dude)
-
-## How do I use this?
-Basically, fork it, and then press the big Run button on Replit, and it will run your very own EaglercraftX (Eaglercraft 1.8) server!
-
-## What is it doing?
-It is probably compiling the latest, updated client for you. This may take a while (~15 minutes, maybe more)
-
-## How do I switch between consoles? / Console help
-Simply click on the console you want to type in. Alternatively, press `CTRL+B`, release, then press `;`.
-
-To jump back to the bottom after scrolling, press `q`.
-
-To select text for copying, hold shift, and then click and drag.
-
-## How do I customize the server name?
-Go into the `web/` folder and click on the [eaglercraft_opts.js](web/eaglercraft_opts.js) file. Everything from default language, to default servers (and names!), to website title and icon, to default server to join on page load; can all be customized in this file.
-
-## How do I make custom textures?
-With our new-and-improved **EagTek:tm:** 2.0 technology, you can now use vanilla 1.8 resource packs in your client. *(Alternatively, to change the default textures, and without using server resource packs (which also work :D), you can still customize the .epk file using my [web-based tool](https://ayunami2000.github.io/ayunWebEPK))*
-
-## How do I keep people from logging in as me?
-Use a plugin like [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded/releases) to secure your and your player's accounts. **Note: For this to be usable, you must set `maxRegPerIp` to `0`.**
-
-## Where can I find plugins?
-- [Spigot Plugins](https://www.spigotmc.org/resources/categories/spigot.4/)
-- [Bukkit Plugins](https://dev.bukkit.org/bukkit-plugins)
-- [Cuberite Plugins](https://plugins.cuberite.org)
-
-## How do I change server software?
-Included is a convenient little script that allows you to switch server software. Simply go to the **Shell** tab and type `./selsrv.sh`. Then, select one of the server software choices, and it will be applied! **NOTICE: Ensure you have stopped your server before running this script.**
-
-## I'm having another issue.
-Join the community-powered [Eaglercraft subreddit](https://www.reddit.com/r/eaglercraft/) to report it! **Be sure to read through other posts to see if it has already been reported, and, rather than reposting it, upvote the other post instead!**
-
-## Can I DM you?
-No.
-
-## Where is singleplayer?
-Don't get your hopes up; it's probably not gonna happen.
-
-## Mods?
-Do it yourself; they will not be provided.
-
-## Can you join my server?
-No.
-
-## *Did* you join my server?
-Probably not, it was probably someone pretending to be me.
-
-## What if I don't want the client, and only the server?
-Someone else will make that I'm sure. You can also go put it on the subreddit and if it gets enough upvotes I'll make an official one.
-
----
-
-This amazing cool and very awesome Replit was created by yours truly **ayunami2000**. You can find me over on [GitHub](https://github.com/ayunami2000) or on my [website](https://ayunami2000.github.io).
+##### Nova for making the server (i guess...)
+## Step 1:
+First you open google chrome (of course)
+## Step 2:
+[Download This File (click here)](https://github.com/NovasGreat/salogenx/raw/main/index.html) and it should appear on your files (blue file button on chromebooks)
+## Step 3:
+Open the file, seriously. Open your files app, and double click the file you just downloaded (the file you just downloaded is called "index.html" and open it.)
+## Step 4:
+A new google chrome tab should open up, and it should say "Eagtek" and a little picture beside it, now, the fun part, let it load. It will tell you to click a button to continue, so do that. If an error spits out, reload the page.
+## Step 5:
+When it is done loading, set your skin and username. (youve probably already have done this before in your life)
+## Step 6:
+Now the hard part, putting the server. First, in the middle of the screen, click the button that says "Multiplayer" and a screen should appear.
+## Step 7:
+Next, click the button where theres a bunch of buttons below called "Add Server" and another screen should appear.
+## Step 8:
+On the server name, put whatever you want, just something that you would remember.
+## Step 9:
+On the server address, put this: wss://salogenx-v2.novasgreat.repl.co/
+## Step 10:
+Click done.
+## Step 11:
+Click on the server and on the bottom click "Join Server".
+# You're done!
+If you have any questions, [click here](mailto:brandon.martinezmurillo04@stu.bryanisd.org)
